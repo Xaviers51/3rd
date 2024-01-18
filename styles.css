@@ -1,0 +1,27 @@
+body{
+    background-color:#FFEBCD
+}
+h1{color: darkgrey;}
+p{font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: chocolate;}
+    hr{border: 1px solid #7CFC00;}
+    b{ color: #7CFC00; }
+#BATMAN{color: aquamarine;}
+#Cody{
+    background-color: black;
+    color: crimson;
+padding: 25px;
+margin: 25px;
+border: 2px;}
+
+#REX{background-color: black;
+padding: 25px;
+border: 2px solid;
+margin: 25px;}
+#GABAGOOL{ padding: 30px;
+    border: 1px;
+    margin: 25px;
+    
+    
+    background-color: darkslategray;}
